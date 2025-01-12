@@ -21,4 +21,4 @@ The Age difference
 CONCLUSION SUMMARY
 This analysis identifies key risk factors for heart disease, including elevated blood pressure, high cholesterol levels, and obesity. The findings underscore the critical importance of routine health monitoring and the implementation of lifestyle interventions, such as a healthy diet and regular exercise, to mitigate these risks and promote long-term cardiovascular health.
 
-Thank yuo
+Thank you
